@@ -3,9 +3,9 @@
     "id": 1,
     "name": "Cредство для мытья посуды Crystal",
     "image": {
-      "url": "/images/aos.png",
+      "url": "/upload/aos.png",
       "small": {
-        "url": "/images/small_aos.png"
+        "url": "/upload/small_aos.png"
       }
     },
     "measure_unit": "мл",
@@ -26,9 +26,9 @@
     "id": 2,
     "name": "Автомат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
     "image": {
-      "url": "/images/ariel.png",
+      "url": "/upload/ariel.png",
       "small": {
-        "url": "/images/small_ariel.png"
+        "url": "/upload/small_ariel.png"
       }
     },
     "measure_unit": "г",
@@ -48,9 +48,9 @@
     "id": 3,
     "name": "Порошок стиральный Автомат 100 пятен COMPACT",
     "image": {
-      "url": "/images/bimax.png",
+      "url": "/upload/bimax.png",
       "small": {
-        "url": "/images/small_bimax.png"
+        "url": "/upload/small_bimax.png"
       }
     },
     "measure_unit": "г",
@@ -71,9 +71,9 @@
     "id": 4,
     "name": "BIO-SOAP Экологичное туалетное мыло. Литсея и бергамот",
     "image": {
-      "url": "/images/bio-mio.png",
+      "url": "/upload/bio-mio.png",
       "small": {
-        "url": "/images/small_bio-mio.png"
+        "url": "/upload/small_bio-mio.png"
       }
     },
     "measure_unit": "г",
@@ -95,9 +95,9 @@
     "id": 5,
     "name": "Ср-во для мытья посуды Апельсин+мята",
     "image": {
-      "url": "/images/sorti.png",
+      "url": "/upload/sorti.png",
       "small": {
-        "url": "/images/small_sorti.png"
+        "url": "/upload/small_sorti.png"
       }
     },
     "measure_unit": "мл",
@@ -115,9 +115,9 @@
     "id": 6,
     "name": "Дезодорант женский, эффект пудры спрей",
     "image": {
-      "url": "/images/nivea.jpg",
+      "url": "/upload/nivea.jpg",
       "small": {
-        "url": "/images/small_nivea.jpg"
+        "url": "/upload/small_nivea.jpg"
       }
     },
     "measure_unit": "мл",
@@ -137,9 +137,9 @@
     "id": 7,
     "name": "Крем для ног Теплые носочки Питательный",
     "image": {
-      "url": "/images/organic.jpg",
+      "url": "/upload/organic.jpg",
       "small": {
-        "url": "/images/small_organic.jpg"
+        "url": "/upload/small_organic.jpg"
       }
     },
     "measure_unit": "мл",
@@ -159,9 +159,9 @@
     "id": 8,
     "name": "Cредство для мытья посуды Crystal",
     "image": {
-      "url": "/images/aos.png",
+      "url": "/upload/aos.png",
       "small": {
-        "url": "/images/small_aos.png"
+        "url": "/upload/small_aos.png"
       }
     },
     "measure_unit": "мл",
@@ -181,9 +181,9 @@
     "id": 9,
     "name": "Автомат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
     "image": {
-      "url": "/images/ariel.png",
+      "url": "/upload/ariel.png",
       "small": {
-        "url": "/images/small_ariel.png"
+        "url": "/upload/small_ariel.png"
       }
     },
     "measure_unit": "г",
@@ -204,9 +204,9 @@
     "id": 10,
     "name": "Порошок стиральный Автомат 100 пятен COMPACT",
     "image": {
-      "url": "/images/bimax.png",
+      "url": "/upload/bimax.png",
       "small": {
-        "url": "/images/small_bimax.png"
+        "url": "/upload/small_bimax.png"
       }
     },
     "measure_unit": "г",
@@ -227,9 +227,9 @@
     "id": 11,
     "name": "BIO-SOAP Экологичное туалетное мыло. Литсея и бергамот",
     "image": {
-      "url": "/images/bio-mio.png",
+      "url": "/upload/bio-mio.png",
       "small": {
-        "url": "/images/small_bio-mio.png"
+        "url": "/upload/small_bio-mio.png"
       }
     },
     "measure_unit": "г",
@@ -250,9 +250,9 @@
     "id": 12,
     "name": "Ср-во для мытья посуды Апельсин+мята",
     "image": {
-      "url": "/images/sorti.png",
+      "url": "/upload/sorti.png",
       "small": {
-        "url": "/images/small_sorti.png"
+        "url": "/upload/small_sorti.png"
       }
     },
     "measure_unit": "мл",
@@ -272,9 +272,9 @@
     "id": 13,
     "name": "Дезодорант женский эффект пудры спрей",
     "image": {
-      "url": "/images/nivea.jpg",
+      "url": "/upload/nivea.jpg",
       "small": {
-        "url": "/images/small_nivea.jpg"
+        "url": "/upload/small_nivea.jpg"
       }
     },
     "measure_unit": "мл",
@@ -295,9 +295,9 @@
     "id": 14,
     "name": "Крем для ног Теплые носочки Питательный",
     "image": {
-      "url": "/images/organic.jpg",
+      "url": "/upload/organic.jpg",
       "small": {
-        "url": "/images/small_organic.jpg"
+        "url": "/upload/small_organic.jpg"
       }
     },
     "measure_unit": "мл",
@@ -318,9 +318,9 @@
     "id": 15,
     "name": "СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
     "image": {
-      "url": "/images/ariel.png",
+      "url": "/upload/ariel.png",
       "small": {
-        "url": "/images/small_ariel.png"
+        "url": "/upload/small_ariel.png"
       }
     },
     "measure_unit": "г",
@@ -341,9 +341,9 @@
     "id": 16,
     "name": "Порошок стиральный Автомат 100 пятен COMPACT",
     "image": {
-      "url": "/images/bimax.png",
+      "url": "/upload/bimax.png",
       "small": {
-        "url": "/images/small_bimax.png"
+        "url": "/upload/small_bimax.png"
       }
     },
     "measure_unit": "г",
@@ -363,9 +363,9 @@
     "id": 17,
     "name": "BIO-SOAP Экологичное туалетное мыло. Литсея и бергамот",
     "image": {
-      "url": "/images/bio-mio.png",
+      "url": "/upload/bio-mio.png",
       "small": {
-        "url": "/images/small_bio-mio.png"
+        "url": "/upload/small_bio-mio.png"
       }
     },
     "measure_unit": "г",
@@ -386,9 +386,9 @@
     "id": 18,
     "name": "Ср-во для мытья посуды Апельсин+мята",
     "image": {
-      "url": "/images/sorti.png",
+      "url": "/upload/sorti.png",
       "small": {
-        "url": "/images/small_sorti.png"
+        "url": "/upload/small_sorti.png"
       }
     },
     "measure_unit": "мл",
@@ -408,9 +408,9 @@
     "id": 19,
     "name": "Дезодорант женский, эффект пудры спрей",
     "image": {
-      "url": "/images/nivea.jpg",
+      "url": "/upload/nivea.jpg",
       "small": {
-        "url": "/images/small_nivea.jpg"
+        "url": "/upload/small_nivea.jpg"
       }
     },
     "measure_unit": "мл",
@@ -431,9 +431,9 @@
     "id": 20,
     "name": "Крем для ног Теплые носочки Питательный",
     "image": {
-      "url": "/images/organic.jpg",
+      "url": "/upload/organic.jpg",
       "small": {
-        "url": "/images/small_organic.jpg"
+        "url": "/upload/small_organic.jpg"
       }
     },
     "measure_unit": "мл",
